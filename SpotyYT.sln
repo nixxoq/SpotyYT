@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotyYT.Main", "SpotyYT.Main\SpotyYT.Main.csproj", "{723E2C63-1C0F-4561-A805-16E7ECCF3B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotyYT.YouTube", "SpotyYT.YouTube\SpotyYT.YouTube.csproj", "{6A11BA01-6CDA-461C-B657-75B074430FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotyYT.Spotify", "SpotyYT.Spotify\SpotyYT.Spotify.csproj", "{501F2D3A-7BC1-46B5-BD8D-4702F67975CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723E2C63-1C0F-4561-A805-16E7ECCF3B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723E2C63-1C0F-4561-A805-16E7ECCF3B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723E2C63-1C0F-4561-A805-16E7ECCF3B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723E2C63-1C0F-4561-A805-16E7ECCF3B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A11BA01-6CDA-461C-B657-75B074430FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A11BA01-6CDA-461C-B657-75B074430FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A11BA01-6CDA-461C-B657-75B074430FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A11BA01-6CDA-461C-B657-75B074430FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501F2D3A-7BC1-46B5-BD8D-4702F67975CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501F2D3A-7BC1-46B5-BD8D-4702F67975CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501F2D3A-7BC1-46B5-BD8D-4702F67975CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501F2D3A-7BC1-46B5-BD8D-4702F67975CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
